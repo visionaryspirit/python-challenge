@@ -51,15 +51,6 @@ for index in range(1, len(profits_losses)):
         greatest_decrease_date = date
     
 average_change = round(total_change / count_profit_loss, 2)
-#total_months = len(dates)
-#net_total_amount = sum(profits_losses) 
-#greatest_increase_profits = (greatest_increase_profits)(greatest_decrease_profits) 
-
-#print(f'Total Months: {len(dates)}')
-#print(f'Total: {sum(profits_losses)}')
-#print(f'Average Change:{average_change}')
-#print(f'Greatest Increase in Profits: {greatest_increase_date} {greatest_increase}')
-#print(f'Greatest Decrease in Profits: {greatest_decrease_date} {greatest_decrease}')
 
 
 header = ['Metric', 'Value']
