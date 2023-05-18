@@ -1,2 +1,2 @@
 ### Python script financial report
-![logo] (revenue-per-lead.jpg)
+![logo](revenue-per-lead.jpg)
